@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coder-App/static/css/main.255361d8.css",
+    "main.js": "/Coder-App/static/js/main.470b8ab4.js",
+    "index.html": "/Coder-App/index.html",
+    "main.255361d8.css.map": "/Coder-App/static/css/main.255361d8.css.map",
+    "main.470b8ab4.js.map": "/Coder-App/static/js/main.470b8ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255361d8.css",
+    "static/js/main.470b8ab4.js"
+  ]
+}
